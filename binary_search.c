@@ -30,7 +30,7 @@ int main()
     for(int i=0; i<len; i++)
     {
         arr[i]=i;
-        printf("%d ",i);
+        printf("%d\n",i);
     }
 
     printf("\n\nInput target value:\n");
